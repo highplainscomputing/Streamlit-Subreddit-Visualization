@@ -30,11 +30,11 @@ python -m venv myenv
 Activate the virtual environment:
 On Windows:
 ```bash
-venv\Scripts\activate
+myvenv\Scripts\activate
 ```
 On macOS/Linux:
 ```bash
-source venv/bin/activate
+source myvenv/bin/activate
 ```
 ### Requirements Installation
 Install the required packages using the provided requirements.txt file:
