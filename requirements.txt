@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+plotly
+protobuf
+streamlit
+wordcloud
